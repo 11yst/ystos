@@ -29,9 +29,9 @@ language:zh-Hans
 timezone:
 since: 2022
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: # https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+avatar: #https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
         #D:\系统默认\桌面\图片\QQ图片20210612201115.png
-        D:\系统默认\桌面\图片\2.webp
+        #D:\系统默认\桌面\图片\2.webp
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
