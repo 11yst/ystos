@@ -22,22 +22,12 @@ baseurl: /ystos
 #
 # 下面的设定都是可选的
 #
-#Site
-title: C Programming#主页标题
-subtitle:from yst #副标题
-language:zh-Hans
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
 avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
-  
-
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
 
-article:
-    highlight:
-    theme:atom-one-dark
-    clipboard: true
-    fold: unfolded
+
     
 # 菜单中的按钮
 navigation:
