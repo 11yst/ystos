@@ -29,7 +29,7 @@ language:zh-Hans
 timezone:
 since: 2022
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: #https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
         #D:\系统默认\桌面\图片\QQ图片20210612201115.png
         #D:\系统默认\桌面\图片\2.webp
 
