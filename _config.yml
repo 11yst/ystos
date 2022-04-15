@@ -7,29 +7,41 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 
 # 描述/签名
-name: LOFFER
-description: 一个可以fork的博客
+name: ystos
+description: This is yst's 博客
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
-url: 
+url: https://11yst.github.io/ystos/
 
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /LOFFER
+baseurl: /ystos
 
 
 #
 # 下面的设定都是可选的
 #
-
+#Site
+title: C Programming#主页标题
+subtitle:from yst #副标题
+language:zh-Hans
+timezone:
+since: 2022
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+avatar: # https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+        #D:\系统默认\桌面\图片\QQ图片20210612201115.png
+        D:\系统默认\桌面\图片\2.webp
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
 
-
+article:
+    highlight:
+    theme:atom-one-dark
+    clipboard: true
+    fold: unfolded
+    
 # 菜单中的按钮
 navigation:
   - name: 首页
