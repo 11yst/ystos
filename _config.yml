@@ -26,8 +26,8 @@ baseurl: /ystos
 title: C Programming#主页标题
 subtitle:from yst #副标题
 language:zh-Hans
-timezone:
-since: 2022
+#timezone:
+#since: 2022
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
 avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
   
